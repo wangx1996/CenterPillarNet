@@ -68,9 +68,9 @@ then
 
 KITTI dataset
 
-You need to Download the 3D KITTI detection dataset from here.
+You can Download the KITTI 3D object detection dataset from [here](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d).
 
-includes:
+It includes:
 Velodyne point clouds (29 GB)
 
 Training labels of object data set (5 MB)
@@ -104,7 +104,7 @@ Tensorboard
     cd logs/<saved_fn>/tensorboard/
     tensorboard --logdir=./
     
-Actually, I only have one RTX2070, so the batch_size must be one, but if you have morce GPU, you can try other number of batchsize.
+Actually, I only have one RTX2070, so the batch_size must be one, but if you have morce GPUs, you can try other number of batchsize.
 
 if you want to test the work
 
