@@ -149,3 +149,8 @@ Inspired by
 you can also show the 3d pointcloud from the test code
 
 ![Image text](https://github.com/wangx1996/CenterPillarNet/blob/main/img/3dshow.png)
+
+more reults
+
+![Image text](https://github.com/wangx1996/CenterPillarNet/blob/main/img/result.png)
+
