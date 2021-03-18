@@ -127,10 +127,15 @@ then you can use this [project](https://github.com/traveller59/kitti-object-eval
 
 Thanks for all the great works.
 [1] [SFA3D] (https://github.com/maudzung/SFA3D)
+
 [2] [CenterNet: Objects as Points](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1904.07850), [PyTorch Implementation](https://github.com/xingyizhou/CenterNet)
+
 [3] [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/pdf/1812.05784.pdf), [PyTorch Implementation](https://github.com/traveller59/second.pytorch)
+
 [4] [Deformable Convolutional Networks](https://arxiv.org/abs/1703.06211) [final version code](https://github.com/jinfagang/DCNv2_latest)
 
+Inspired by
 
+[1] [AFDet: Anchor Free One Stage 3D Object Detection](https://arxiv.org/abs/2006.12671)
 
 
