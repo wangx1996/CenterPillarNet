@@ -15,7 +15,7 @@ This project is not finished yet, it has a lot of parts to be improved.
 
 If you are intreseted in this project, you can try to change the code and make this work better.
 
-If you have any idea on this work, pilease contact me.
+If you have any idea on this work, please contact me.
 
 More details I will put it on wiki.
 
