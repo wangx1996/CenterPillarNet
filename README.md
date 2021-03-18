@@ -88,9 +88,13 @@ Data structure like
        |   ├── label_2
        |   └── velodyne
        └── testing     <-- 7580 test data
-           ├── image_2 <-- for visualization
-           ├── calib
-           └── velodyne
+       |   ├── image_2 <-- for visualization
+       |   ├── calib
+       |   └── velodyne
+       └── ImageSets
+           ├── train.txt
+           ├── val.txt
+           └── test.txt
 ### 4. How to Use
 
 First, make sure the dataset dir is right in your train.py file
