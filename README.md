@@ -21,7 +21,7 @@ More details I will put it on wiki.
 
 ### 1.Clone Code
 
-    git clone https://github.com/maudzung/CenterPillarNet.git CenterPillarNet
+    git clone https://github.com/wangx1996/CenterPillarNet.git CenterPillarNet
     cd CenterPillarNet/
     
 ### 2.Install Dependence
@@ -150,7 +150,7 @@ You can also show the 3d pointcloud from the test code
 
 ![Image text](https://github.com/wangx1996/CenterPillarNet/blob/main/img/3dshow.png)
 
-More reults
+More results
 
 ![Image text](https://github.com/wangx1996/CenterPillarNet/blob/main/img/result.png)
 
