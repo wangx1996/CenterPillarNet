@@ -144,13 +144,13 @@ Inspired by
 [1] [AFDet: Anchor Free One Stage 3D Object Detection](https://arxiv.org/abs/2006.12671)
 
 
-### more
+### More
 
-you can also show the 3d pointcloud from the test code
+You can also show the 3d pointcloud from the test code
 
 ![Image text](https://github.com/wangx1996/CenterPillarNet/blob/main/img/3dshow.png)
 
-more reults
+More reults
 
 ![Image text](https://github.com/wangx1996/CenterPillarNet/blob/main/img/result.png)
 
