@@ -146,6 +146,21 @@ Inspired by
 
 ### More
 
+Evaluate
+    
+    Car AP(Average Precision)@0.70, 0.70, 0.70:
+    bbox AP:68.43, 65.51, 68.91
+    bev  AP:70.04, 64.88, 68.25
+    3d   AP:52.05, 47.46, 51.34
+    
+    Car AP(Average Precision)@0.70, 0.50, 0.50:
+    bbox AP:68.43, 65.51, 68.91
+    bev  AP:74.86, 77.63, 72.54
+    3d   AP:74.06, 76.52, 71.71
+
+You can see the 3d size is not perform very well.
+
+
 You can also show the 3d pointcloud from the test code
 
 ![Image text](https://github.com/wangx1996/CenterPillarNet/blob/main/img/3dshow.png)
