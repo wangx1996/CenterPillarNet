@@ -149,14 +149,14 @@ Inspired by
 Evaluate
     
     Car AP(Average Precision)@0.70, 0.70, 0.70:
-    bbox AP:68.43, 65.51, 68.91
-    bev  AP:70.04, 64.88, 68.25
-    3d   AP:52.05, 47.46, 51.34
-    
+    bbox AP:78.04, 73.71, 66.88
+    bev  AP:79.25, 73.67, 66.84
+    3d   AP:60.75, 55.75, 51.03
     Car AP(Average Precision)@0.70, 0.50, 0.50:
-    bbox AP:68.43, 65.51, 68.91
-    bev  AP:74.86, 77.63, 72.54
-    3d   AP:74.06, 76.52, 71.71
+    bbox AP:78.04, 73.71, 66.88
+    bev  AP:82.64, 77.12, 69.38
+    3d   AP:82.31, 76.68, 69.07
+
 
 You can see the 3d size is not perform very well.
 
