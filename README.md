@@ -4,7 +4,7 @@ An anchor free method for pointcloud object detecion.
 [![ros kinetic](https://img.shields.io/badge/ros-kinetic-brightgreen.svg)](https://github.com/wangx1996/CenterPillarNet)  [![torch 1.3](https://img.shields.io/badge/torch-1.3-red.svg)](https://github.com/wangx1996/CenterPillarNet)  [![python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://github.com/wangx1996/CenterPillarNet)
 
 ### Result
-![Image text](https://github.com/wangx1996/CenterPillarNet/blob/main/img/pillar_img.gif)
+![Image text](https://github.com/wangx1996/CenterPillarNet/blob/main/img/pillarwithfps.gif)
 
 
 ### Introdcution
@@ -146,7 +146,7 @@ Inspired by
 
 ### More
 
-Evaluate
+Evaluate：peak_thresh=0.5
     
     Car AP(Average Precision)@0.70, 0.70, 0.70:
     bbox AP:78.04, 73.71, 66.88
