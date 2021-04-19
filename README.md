@@ -144,6 +144,10 @@ Inspired by
 [1] [AFDet: Anchor Free One Stage 3D Object Detection](https://arxiv.org/abs/2006.12671)
 
 
+### CheckPoint
+
+GoogleDrive: [https://drive.google.com/drive/folders/1Iobh8OiWvytPvK_u2TOtEtgUTIn3r6Hz?usp=sharing](https://drive.google.com/drive/folders/1Iobh8OiWvytPvK_u2TOtEtgUTIn3r6Hz?usp=sharing)
+
 ### More
 
 Evaluate：peak_thresh=0.5
